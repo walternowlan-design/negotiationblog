@@ -1,16 +1,48 @@
 ---
-title: "Second post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 15 2022"
+title: "THE NOTTINGHAM AGREEMENT NEGOTIATION: THE CONSULTANT"
+description: "Consultant/Student instructions"
+pubDate: "June 01 2026"
 heroImage: "/blog-placeholder-4.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+This exercise is a multi-issue negotiation simulation involving you, a senior consultant at TechNova IT Consulting Limited, and a prospective client, Nottingham Schools, which represents schools in the city of Nottingham.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+**Information for the Consultant**
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+You are a senior consultant at TechNova IT Consulting Limited, a well-regarded firm known for developing tailored digital solutions. Over the past several weeks, you have been exploring a potential contract with schools Nottingham Schools. Their schools have a strong hardware setup, but the generic software installed years ago is no longer suitable for their administrative and educational needs.
+TechNova’s initial assessment indicates that you can develop customised applications, workflow tools and staff training that would modernise their operations. Winning this contract would help TechNova expand into the public education sector, an area the firm is eager to develop.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+**Background context**
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+Several years ago, Nottingham City Council introduced a unified IT platform across municipal departments. While the initiative aimed to enhance coordination, it soon became clear that individual departments and local institutions, such as schools, needed more specialised systems. They now maintain their own adaptations while relying on shared hardware. The integrated vision never fully materialised, but the infrastructure itself remains high quality.
+With this change, an official representing the Nottingham Schools network has been seeking an IT consultant who can redesign the school’s digital processes, including timetable management, pupil record systems and internal reporting, while still leveraging the existing hardware. Demonstrating success here could also open doors to broader work with other publicly funded school networks, which face similar challenges.
+
+**Your discussions so far**
+
+Three weeks ago, an official from the Nottingham Schools network (i.e., the client representative) contacted you to gather information about TechNova’s capabilities. You provided examples of bespoke systems your team has built for other education providers, including user manuals and in-person staff training. Although several firms are being considered, the official hinted that TechNova may be the strongest candidate.
+Your follow-up conversations with the client representative have been positive. They understand the school’s technical challenges and the administrative constraints they operate under. Together, you have outlined a three- to four-month project plan covering software redesign, documentation and training.
+
+**The emerging problem**
+
+A major misunderstanding has created a serious stumbling block: the project budget.
+
+You submitted a proposal of £85,000. This figure already well below TechNova’s normal private-sector rates, but justifiable given the strategic value of establishing a presence in the public education sector. Charging less would not cover costs and would set a problematic precedent.
+
+However, the client representative reacted with surprise and explained that, due to recent funding pressures, they can allocate a maximum of £50,000, and ideally hope to spend less. Nottingham Schools would have to make special internal budget adjustments to support even that level of expenditure, as the project was not included in the original financial plan.
+
+You feel frustrated: £85,000 is already a heavily discounted price for the scope of work required. You also suspect the representative may not fully understand the time, expertise and customisation involved. At the same time, you acknowledge that addressing financial expectations earlier could have avoided the misunderstanding.
+
+It is unclear whether £50,000 is an absolute ceiling or simply a negotiation starting point. Regardless, it seems unlikely they can reach your needed £85,000. Splitting the difference is not viable. £67,500 remains below your minimum and may exceed their funding capacity.
+
+**Your task**
+
+You have agreed to one final meeting with the client representative to determine whether the deal can be salvaged. Your goal is to secure the best agreement possible while ensuring that the terms remain acceptable to TechNova.
+
+You may:
+•	reach a final agreement,
+•	develop a conditional agreement pending further approvals, or
+•	conclude that no workable deal is possible.
+
+At minimum, aim to generate several creative options to resolve the deadlock. Remember: any solution must be realistic for TechNova and defensible to your partners. If the other side’s position is not negotiable and would leave the firm undercharging or overcommitted, you should be prepared to walk away.
+
+
