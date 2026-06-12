@@ -1,5 +1,5 @@
 ---
-title: "Using MDX"
+title: "NOTTINGHAM AGREEMENT NEGOTIATION: CONSULTANT NEGOTATION STRATEGY"
 description: "Neogitation Strategy_CONSULTANT"
 pubDate: "Jun 12 2024"
 heroImage: "/blog-placeholder-5.jpg"
