@@ -34,10 +34,10 @@ heroImage: "/blog-placeholder-5.jpg"
 <p>Specific proposals to bridge the gap:</p>
 <h4>Option A: Phased Project Delivery</h4>
 <p><b>Phase 1 (£50k):</b></p>
-<p>Core systems (timetabling + student records)</p>
+<p>Core system reprogramming (timetabling, student registration and student records)</p>
 
 <h4>Phase 2 (future funding):</h4>
-<p>Reporting tools + extended training</p>
+<p>User manuals and staff training</p>
 
 <h4>Option B: Reduced Scope Agreement</h4>
 
@@ -52,11 +52,13 @@ heroImage: "/blog-placeholder-5.jpg"
 
 <h4>Option C: Payment Structuring</h4>
 <ul>
-    <li>Total project value closer to £70k–£85k</li>
+    <li>Total project value closer to £85k</li>
     <li>But:
         <ul>
             <li>£50k paid in current cycle</li>
             <li>Remainder paid next financial year or contingent on funding</li>
+			<li>There is no guarantee that funding will be available next financial year.</li>
+			<li>This option would need to be agreed by senior management, as I do not have authority to approve this. I can only agree in principle.</li>
         </ul>
     </li>
 </ul>
@@ -65,7 +67,7 @@ heroImage: "/blog-placeholder-5.jpg"
 <ul>
     <li>£30k–£40k pilot:
         <ul>
-            <li>One school or one subsystem (e.g. scheduling)</li>
+            <li>One school or one subsystem (e.g. student registration or student records), plus user manuals and training</li>
             <li>Scale later based on success</li>
         </ul>
     </li>
@@ -74,7 +76,7 @@ heroImage: "/blog-placeholder-5.jpg"
 <h4>Option E: Partnership Model</h4>
 <ul>
     <li>Initial lower-cost entry (£50k)</li>
-    <li>Commitment to <strong>future contracts or expansion across schools</strong></li>
+    <li>Commitment to <strong>future contracts</strong> - I can agree to this option in principle, but it would need to be agreed by senior management, as I do not have authority to approve this. I can only agree in principle.</li>
 </ul>
 
 <h2>Strategy Point 3: Focus on Interests, Not Positions</h2>
@@ -84,9 +86,10 @@ heroImage: "/blog-placeholder-5.jpg"
 <h4>Client interests (to emphasise)</h4>
 <ul>
     <li>Staying within <strong>strict budget constraints</strong></li>
-    <li>Achieving <strong>functional improvements quickly</strong></li>
+    <li>Ensuring <strong>full functionality of the updated software</strong> (e.g. it works as expected, it has no errors or bugs) that is <strong>delivered on time</strong></li>
     <li>Minimising <strong>disruption to schools</strong></li>
     <li>Ensuring <strong>value for money and accountability</strong></li>
+	<li>Ensuring that staff can use the updated software </li>
 </ul>
 
 <h4>Consultant interests (to recognise)</h4>
@@ -99,7 +102,7 @@ heroImage: "/blog-placeholder-5.jpg"
 <h4>Questions to use</h4>
 <ul>
     <li>“Which elements of the project are the most resource-intensive for you?”</li>
-    <li>“Where could we reduce effort without compromising core outcomes?”</li>
+    <li>“Where could we reduce effort without compromising quality or functionality?”</li>
     <li>“Would a phased approach allow you to maintain quality while fitting our budget?”</li>
     <li>“How important is full training versus a more limited model?”</li>
 </ul>
@@ -212,4 +215,11 @@ heroImage: "/blog-placeholder-5.jpg"
 
 <p><strong>Example framing:</strong></p>
 <p>“This project could position you strongly for similar work across other school networks.”</p>
+<h2>Additional notes:</h2>
+<p>If the project is delivered in phases, the first phase must include fully functioning updated software, software implementation and some form of training to staff users of the software.</p>
+<p>A successful project for you means an updated system that works as intended and has no bugs, that is implemented into existing systems, and that staff can use.</p>
+<p>The highest priority functions are student registration and student records. Timetabling is important but is less of a priority.</p>
+<p>Further funding may be available in the next financial period, but you would need to check that, and future funding cannot be guaranteed. Any additional funding requests would need to be approved by senior managers in Nottingham Schools, as you do not have authority to approve budgets.</p>
+<p>You would prefer a partnership model option as this would eliminate the need to reduce the scope of the project or the number of deliverables. However, you appreciate that this may not be possible and are willing to explore other options.
+</p>
 
